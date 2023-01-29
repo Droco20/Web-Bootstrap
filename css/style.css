@@ -1,0 +1,132 @@
+body {
+     font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+     font-weight: bold;
+
+}
+
+
+.altura-ar-ab {
+     padding: 100px 0;
+
+}
+
+.logotipo {
+     width: 130px;
+     margin-left: 0;
+
+
+}
+
+.sps--abv {
+     background-color: transparent;
+     color: #000;
+}
+
+.sps--blw {
+     background-color: #2B2B2B;
+     color: #fff;
+}
+
+nav.sps--abv .logotipo {
+     width: 180px;
+
+}
+
+
+.iconRedsHeader {
+     width: 30px;
+     margin: 15px 10px;
+
+}
+
+.bann {
+     width: 450px;
+     margin-top: 10px;
+     margin-left: -15px;
+}
+
+.carousel-caption {
+     position: absolute;
+     top: 40%;
+     bottom: 20px;
+     left: 12%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     color: white;
+     text-align: left;
+}
+
+.btn-light {
+     color: white;
+     background-color: transparent;
+     border-color: white;
+     border: 2px solid;
+
+}
+
+
+.banner-video {
+     background-image: url(../img/videoimage.webp);
+     padding: 200px 0;
+     position: relative;
+     text-align: center;
+
+}
+
+.banner-video img {
+     width: 80px;
+     height: 80px;
+     position: relative;
+}
+
+.tamañomza {
+     height: 170px;
+}
+
+footer {
+     background-color: black;
+     padding: 80px 0;
+     text-align: center;
+}
+
+
+.logotipoFoot {
+     width: 200px;
+     margin-bottom: 20px;
+}
+
+footer p {
+     color: cadetblue;
+     font-size: 15px;
+}
+
+/* Nosotros*/
+
+.cabecera-somos {
+     padding: 150px 0 100px;
+     background-image: url(../img/nosotros.png);
+     background-position: center center;
+     background-size: cover;
+}
+
+.texto-blanco {
+     color: white;
+}
+
+.bann-nosotros {
+     background-image: url(../img/somos-equipo2.png);
+     background-position: center center;
+     background-size: cover;
+     padding: 200px 0;
+     text-align: center;
+
+
+}
